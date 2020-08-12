@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  12 AUG 2020 19:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  12 AUG 2020 19:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./sections/section-1.tex [1
 
-]) (./sections/section-2.tex [2] (./figures/figure-1-2.tex
+]) (./sections/section-2.tex
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10> not available
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 4.
+ [2] (./figures/figure-1-2.tex
 File: figures/figure-1.png Graphic file (type bmp)
 <figures/figure-1.png>
 File: figures/figure-2.png Graphic file (type bmp)
@@ -826,8 +829,6 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10> not available
-(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 29.
  [14])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
  [15]
@@ -836,16 +837,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `Hara19741.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 314E6F21A65CF534D5FB9C03AC76440D;1525.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 19583 strings out of 479418
- 395289 string characters out of 5888105
- 715581 words of memory out of 5000000
- 36704 multiletter control sequences out of 15000+600000
+ 19586 strings out of 479418
+ 395303 string characters out of 5888105
+ 715624 words of memory out of 5000000
+ 36707 multiletter control sequences out of 15000+600000
  544941 words of font info for 104 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 63i,11n,72p,1018b,674s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,72p,1018b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Hara19741.pdf (15 pages).
