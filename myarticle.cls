@@ -40,12 +40,13 @@
 \renewcommand\figurename{Figure}
 \renewcommand\refname{Reference 参考文献}
 \newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}} 
-\newcommand{\Paragraph}[1]{\vspace{5pt}\noindent\textbf{\large{#1}}\vspace{5pt}}
+\newcommand{\Paragraph}[1]{\vspace{10pt}\noindent\textbf{\large{#1}}\vspace{10pt}}
 
 \renewcommand{\figureautorefname}{Fig.}
 \newcommand{\cnfigureref}[1]{\renewcommand{\figureautorefname}{图}~\autoref{#1}~\renewcommand{\figureautorefname}{Fig.}}
-\newcommand{\cntableref}[1]{\renewcommand{\tableautorefname}{表}~\autoref{#1}~\renewcommand{\tableautorefname}{Table}}
-\newcommand{\cnequationref}[1]{\renewcommand{\equationautorefname}{式}~\autoref{#1}~\renewcommand{\equationautorefname}{Equation}}
+\newcommand{\cntableref}[1]{\renewcommand{\tableautorefname}{表}~\autoref{#1}~\renewcommand{\tableautorefname}{Table}} 
+\renewcommand{\equationautorefname}{Eq.}
+\newcommand{\cnequationref}[1]{\renewcommand{\equationautorefname}{式}~\autoref{#1}~\renewcommand{\equationautorefname}{Eq.}}
 \newcommand{\cnappendixref}[1]{\renewcommand{\appendixautorefname}{附录}~\autoref{#1}~\renewcommand{\appendixautorefname}{Appendix}}
 \geometry{
   a4paper,%
@@ -61,8 +62,8 @@
 \hbadness=10000
 
 \AtBeginDocument {
-  \abovedisplayshortskip=8pt
-  \belowdisplayshortskip=8pt
-  \abovedisplayskip=8pt
-  \belowdisplayskip=8pt
+  \abovedisplayshortskip=4pt
+  \belowdisplayshortskip=4pt
+  \abovedisplayskip=4pt
+  \belowdisplayskip=4pt
 }
