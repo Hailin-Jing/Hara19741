@@ -67,3 +67,5 @@
   \abovedisplayskip=4pt
   \belowdisplayskip=4pt
 }
+
+\renewcommand{\theenumi}{\arabic{enumi}} \renewcommand{\labelenumi}{(\theenumi)}
