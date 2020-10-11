@@ -1,0 +1,107 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brooker and Ireland(1965)]{Brooker19651}
+Elmer~W. Brooker and Herbert~O. Ireland.
+\newblock Earth pressures at rest related to stress history.
+\newblock \emph{Canadian Geotechnical Journal}, 2\penalty0 (1):\penalty0 1--15,
+  1965.
+\newblock ISSN 0008-3674.
+\newblock \doi{10.1139/t65-001}.
+
+\bibitem[D'Appolonia and Poulos(1971)]{DAppolonia19711359}
+D.~J. D'Appolonia and H.~G. Poulos.
+\newblock Initial settlement of structure on clay.
+\newblock \emph{Journal of the Soil Mechanics and Foundations Division},
+  97\penalty0 (SM10):\penalty0 1359--1376, 1971.
+
+\bibitem[Duncan and Dunlop(1969)]{Duncan1969101}
+J.M. Duncan and P.~Dunlop.
+\newblock The behavior of soils in simple shear tests.
+\newblock In \emph{Proceedings of Seventh International Conference on Soil
+  Mechanics and Foundation Engineering}, volume~1, pages 101--109, Mexico,
+  1969.
+
+\bibitem[Hardin and Drnevich(1972)]{Hardin1973667}
+B.~0. Hardin and V.~P. Drnevich.
+\newblock Shear modulus and damping: equations and curves.
+\newblock \emph{Journal of the Soil Mechanics and Foundations Division},
+  98\penalty0 (SM7):\penalty0 667--692, 1972.
+\newblock \doi{10.1016/0022-4898(73)90211-5}.
+
+\bibitem[Imai and Yoshimura(1970)]{Imai197017}
+T.~Imai and M.~Yoshimura.
+\newblock Elastic wave velocity and soil mechanics in soft soil deposits.
+\newblock \emph{Tsuchi-to-Kiso}, 18\penalty0 (1):\penalty0 17--21, 1970.
+
+\bibitem[Kitsunezaki(1967)]{Kitsunezaki19671}
+C.~Kitsunezaki.
+\newblock Observation of shear wave by the special borehole geophone (1), field
+  test on foundamental characteristics of the geophone specially designed.
+\newblock \emph{Geophysical Exploration}, 20\penalty0 (1):\penalty0 1--11,
+  1967.
+
+\bibitem[Koizumi and Ito(1968)]{Koizumi1968}
+Y.~Koizumi and K.~Ito.
+\newblock New method of soil sampling.
+\newblock In \emph{Proceedings of Sampling Symposium}, 1968.
+
+\bibitem[Mikasa(1971)]{Mikasa197138}
+M.~Mikasa.
+\newblock Characteristics of soft deposits in osaka district.
+\newblock \emph{Architecture and Society, Archtectural Association of Japan},
+  52\penalty0 (9):\penalty0 38--42, 1971.
+
+\bibitem[Miller and Brown(1972)]{Miller1972545}
+R.~P. Miller and Brown.
+\newblock Shear modulus determination of soils by in-situ methods for
+  earthquake engineering.
+\newblock In \emph{Proceedings of the International Conference on
+  Microzonnation}, pages 545--558, 1972.
+
+\bibitem[Ohsaki and Iwasaki(1973)]{Ohsaki197361}
+Yorihiko Ohsaki and Ryoji Iwasaki.
+\newblock On dynamic shear moduli and poisson’s ratios of soil deposits.
+\newblock \emph{Soils and Foundations}, 13\penalty0 (4):\penalty0 61--73, 1973.
+\newblock ISSN 0038-0806.
+\newblock \doi{10.3208/sandf1972.13.4_61}.
+
+\bibitem[Seed and Peacock(1971)]{Seed19711099}
+H.~Bolton Seed and William~H Peacock.
+\newblock Test procedures for measuring soil liquefaction characteristics.
+\newblock \emph{Journal of the Soil Mechanics \& Foundations Division},
+  97\penalty0 (SM8):\penalty0 1099--1119, 1971.
+
+\bibitem[Shima(1968)]{Shima19681301}
+E.~Shima.
+\newblock S wave velocity measurement in subsoil layers at various parts of
+  tokyo.
+\newblock \emph{Bulletin of the Earthquake Research Institute, University of
+  Tokyo}, 46:\penalty0 1301--1312, 1968.
+
+\bibitem[Shima(1969)]{Shima1969819}
+E.~Shima.
+\newblock S wave velocity measurement in subsoil layers at various parts of
+  tokyo.
+\newblock \emph{Bulletin of the Earthquake Research Institute, University of
+  Tokyo}, 47:\penalty0 819--829, 1969.
+
+\bibitem[Wilson and Dietrich(2010)]{Wilson2010419}
+Stanley~D Wilson and Rudy~J Dietrich.
+\newblock Effect of consolidation pressure on elastic and strength properties
+  of clay.
+\newblock In \emph{Research Conference on Shear Strength of Cohesive Soils},
+  pages 419--435, 2010.
+
+\bibitem[Yanase(1969)]{Yanase196937}
+S.~Yanase.
+\newblock Soundings in the alluvial clay stratums (on the results of several
+  methods).
+\newblock \emph{Report of the Port and Hobour Research Institute}, 8\penalty0
+  (1):\penalty0 37--58, 1969.
+
+\end{thebibliography}
